@@ -1,0 +1,8 @@
+These are the variable values I have used to create Redis environment.
+
+port = 6379
+num_cache_nodes = 1
+subnet_group_name = tr-vpc-1-cache-subnetgroup
+clusterid = akkadia-elasticache-redis
+engine = redis
+node_type = cache.t2.micro
